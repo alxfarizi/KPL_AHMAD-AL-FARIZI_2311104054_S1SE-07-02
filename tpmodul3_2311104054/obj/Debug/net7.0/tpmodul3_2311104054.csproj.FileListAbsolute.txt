@@ -1,0 +1,15 @@
+/Users/ahmadalfarizi/Projects/tpmodul3_2311104054/tpmodul3_2311104054/bin/Debug/net7.0/tpmodul3_2311104054
+/Users/ahmadalfarizi/Projects/tpmodul3_2311104054/tpmodul3_2311104054/bin/Debug/net7.0/tpmodul3_2311104054.deps.json
+/Users/ahmadalfarizi/Projects/tpmodul3_2311104054/tpmodul3_2311104054/bin/Debug/net7.0/tpmodul3_2311104054.runtimeconfig.json
+/Users/ahmadalfarizi/Projects/tpmodul3_2311104054/tpmodul3_2311104054/bin/Debug/net7.0/tpmodul3_2311104054.dll
+/Users/ahmadalfarizi/Projects/tpmodul3_2311104054/tpmodul3_2311104054/bin/Debug/net7.0/tpmodul3_2311104054.pdb
+/Users/ahmadalfarizi/Projects/tpmodul3_2311104054/tpmodul3_2311104054/obj/Debug/net7.0/tpmodul3_2311104054.csproj.AssemblyReference.cache
+/Users/ahmadalfarizi/Projects/tpmodul3_2311104054/tpmodul3_2311104054/obj/Debug/net7.0/tpmodul3_2311104054.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadalfarizi/Projects/tpmodul3_2311104054/tpmodul3_2311104054/obj/Debug/net7.0/tpmodul3_2311104054.AssemblyInfoInputs.cache
+/Users/ahmadalfarizi/Projects/tpmodul3_2311104054/tpmodul3_2311104054/obj/Debug/net7.0/tpmodul3_2311104054.AssemblyInfo.cs
+/Users/ahmadalfarizi/Projects/tpmodul3_2311104054/tpmodul3_2311104054/obj/Debug/net7.0/tpmodul3_2311104054.csproj.CoreCompileInputs.cache
+/Users/ahmadalfarizi/Projects/tpmodul3_2311104054/tpmodul3_2311104054/obj/Debug/net7.0/tpmodul3_2311104054.dll
+/Users/ahmadalfarizi/Projects/tpmodul3_2311104054/tpmodul3_2311104054/obj/Debug/net7.0/refint/tpmodul3_2311104054.dll
+/Users/ahmadalfarizi/Projects/tpmodul3_2311104054/tpmodul3_2311104054/obj/Debug/net7.0/tpmodul3_2311104054.pdb
+/Users/ahmadalfarizi/Projects/tpmodul3_2311104054/tpmodul3_2311104054/obj/Debug/net7.0/tpmodul3_2311104054.genruntimeconfig.cache
+/Users/ahmadalfarizi/Projects/tpmodul3_2311104054/tpmodul3_2311104054/obj/Debug/net7.0/ref/tpmodul3_2311104054.dll
