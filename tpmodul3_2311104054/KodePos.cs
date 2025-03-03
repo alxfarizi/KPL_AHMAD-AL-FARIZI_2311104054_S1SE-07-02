@@ -34,14 +34,3 @@ public class KodePos
         }
     }
 }
-
-class Programm
-{
-    static void Main(string[] args)
-    {
-        KodePos kodePos = new KodePos();
-        Console.WriteLine(kodePos.GetKodePos("Batumunggal")); // Output: 40266
-        Console.WriteLine(kodePos.GetKodePos("Maleer"));      // Output: 40274
-        Console.WriteLine(kodePos.GetKodePos("Unknown"));     // Output: Kode pos tidak ditemukan
-    }
-}
