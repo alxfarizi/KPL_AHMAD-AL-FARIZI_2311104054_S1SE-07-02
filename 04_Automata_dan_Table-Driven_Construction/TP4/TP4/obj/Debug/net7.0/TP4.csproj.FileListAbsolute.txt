@@ -1,0 +1,15 @@
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/04_Automata_dan_Table-Driven_Construction/TP4/TP4/bin/Debug/net7.0/TP4
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/04_Automata_dan_Table-Driven_Construction/TP4/TP4/bin/Debug/net7.0/TP4.deps.json
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/04_Automata_dan_Table-Driven_Construction/TP4/TP4/bin/Debug/net7.0/TP4.runtimeconfig.json
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/04_Automata_dan_Table-Driven_Construction/TP4/TP4/bin/Debug/net7.0/TP4.dll
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/04_Automata_dan_Table-Driven_Construction/TP4/TP4/bin/Debug/net7.0/TP4.pdb
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/04_Automata_dan_Table-Driven_Construction/TP4/TP4/obj/Debug/net7.0/TP4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/04_Automata_dan_Table-Driven_Construction/TP4/TP4/obj/Debug/net7.0/TP4.AssemblyInfoInputs.cache
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/04_Automata_dan_Table-Driven_Construction/TP4/TP4/obj/Debug/net7.0/TP4.AssemblyInfo.cs
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/04_Automata_dan_Table-Driven_Construction/TP4/TP4/obj/Debug/net7.0/TP4.csproj.CoreCompileInputs.cache
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/04_Automata_dan_Table-Driven_Construction/TP4/TP4/obj/Debug/net7.0/TP4.dll
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/04_Automata_dan_Table-Driven_Construction/TP4/TP4/obj/Debug/net7.0/refint/TP4.dll
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/04_Automata_dan_Table-Driven_Construction/TP4/TP4/obj/Debug/net7.0/TP4.pdb
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/04_Automata_dan_Table-Driven_Construction/TP4/TP4/obj/Debug/net7.0/TP4.genruntimeconfig.cache
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/04_Automata_dan_Table-Driven_Construction/TP4/TP4/obj/Debug/net7.0/ref/TP4.dll
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/04_Automata_dan_Table-Driven_Construction/TP4/TP4/obj/Debug/net7.0/TP4.sourcelink.json
