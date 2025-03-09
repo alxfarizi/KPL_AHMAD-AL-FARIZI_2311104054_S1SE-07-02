@@ -10,7 +10,6 @@ class Program
         DoorMachine door = new DoorMachine(); 
         door.ChangeState("Terbuka");  
 
-        // Menahan console agar tidak langsung tertutup
         Console.WriteLine("\nTekan Enter untuk keluar...");
         Console.ReadLine();
     }

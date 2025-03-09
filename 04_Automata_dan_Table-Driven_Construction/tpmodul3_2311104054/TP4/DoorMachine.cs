@@ -7,14 +7,14 @@ public class DoorMachine
 
     public DoorMachine()
     {
-        state = "Terkunci"; // State awal
+        state = "Terkunci";
         actions = new Action[]
         {
             Terkunci,
             Terbuka
         };
         Console.WriteLine("State awal: " + state);
-        actions[0](); // Jalankan aksi untuk state awal
+        actions[0](); 
     }
 
     private void Terkunci()
@@ -32,12 +32,12 @@ public class DoorMachine
         if (newState == "Terkunci")
         {
             state = newState;
-            actions[0](); // Jalankan aksi untuk state "Terkunci"
+            actions[0](); 
         }
         else if (newState == "Terbuka")
         {
             state = newState;
-            actions[1](); // Jalankan aksi untuk state "Terbuka"
+            actions[1](); 
         }
         else
         {

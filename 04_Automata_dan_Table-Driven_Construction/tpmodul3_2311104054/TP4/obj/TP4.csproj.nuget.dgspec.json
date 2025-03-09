@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/04_Automata_dan_Table-Driven_Construction/TP4/TP4/TP4.csproj": {}
+    "/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/04_Automata_dan_Table-Driven_Construction/tpmodul3_2311104054/TP4/TP4.csproj": {}
   },
   "projects": {
-    "/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/04_Automata_dan_Table-Driven_Construction/TP4/TP4/TP4.csproj": {
+    "/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/04_Automata_dan_Table-Driven_Construction/tpmodul3_2311104054/TP4/TP4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/04_Automata_dan_Table-Driven_Construction/TP4/TP4/TP4.csproj",
+        "projectUniqueName": "/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/04_Automata_dan_Table-Driven_Construction/tpmodul3_2311104054/TP4/TP4.csproj",
         "projectName": "TP4",
-        "projectPath": "/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/04_Automata_dan_Table-Driven_Construction/TP4/TP4/TP4.csproj",
+        "projectPath": "/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/04_Automata_dan_Table-Driven_Construction/tpmodul3_2311104054/TP4/TP4.csproj",
         "packagesPath": "/Users/ahmadalfarizi/.nuget/packages/",
-        "outputPath": "/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/04_Automata_dan_Table-Driven_Construction/TP4/TP4/obj/",
+        "outputPath": "/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/04_Automata_dan_Table-Driven_Construction/tpmodul3_2311104054/TP4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ahmadalfarizi/.nuget/NuGet/NuGet.Config"
@@ -32,13 +32,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net7.0": {
@@ -59,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
         }
       }
     }
