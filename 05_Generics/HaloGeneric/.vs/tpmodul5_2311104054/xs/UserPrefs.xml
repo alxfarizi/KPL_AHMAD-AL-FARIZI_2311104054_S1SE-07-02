@@ -3,15 +3,20 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.tpmodul5__2311104054 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.tpmodul5__2311104054 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="HaloGeneric/Program.cs">
     <Files>
-      <File FileName="HaloGeneric/Program.cs" Line="13" Column="32" />
+      <File FileName="HaloGeneric/DataGeneric.cs" Line="5" Column="2" />
+      <File FileName="HaloGeneric/Program.cs" Line="15" Column="12" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__" />
+        <State name="__root__">
+          <Node name="tpmodul5_2311104054">
+            <Node name="tpmodul5_2311104054" expanded="True" />
+          </Node>
+        </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

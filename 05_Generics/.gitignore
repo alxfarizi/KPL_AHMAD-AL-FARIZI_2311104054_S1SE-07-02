@@ -1,0 +1,17 @@
+# File dan folder build
+bin/
+obj/
+
+# File konfigurasi IDE
+.vs/
+*.user
+*.suo
+
+# File log
+*.log
+
+# File runtime
+*.dll
+*.exe
+*.pdb
+

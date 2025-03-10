@@ -1,11 +1,16 @@
 ﻿using System;
-using tpmodul5_2311104054;
 
-public class Program
+namespace tpmodul5_2311104054
 {
-    static void Main(string[] args)
+    public class Program
     {
-        HaloGeneric<string> halo = new HaloGeneric<string>("Fariz"); 
-        halo.SapaUser();
+        static void Main(string[] args)
+        {
+            HaloGeneric<string> halo = new HaloGeneric<string>("Fariz");
+            halo.SapaUser();
+
+            DataGeneric<string> data = new DataGeneric<string>("2311104054");
+            data.PrintData();
+        }
     }
 }
