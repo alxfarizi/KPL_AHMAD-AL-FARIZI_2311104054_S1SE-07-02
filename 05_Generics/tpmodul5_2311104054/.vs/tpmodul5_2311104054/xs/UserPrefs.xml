@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{976BDCB4-7D93-463F-A016-E7C078A26819}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="tpmodul5_2311104054/Program.cs">
+    <Files>
+      <File FileName="tpmodul5_2311104054/Program.cs" Line="14" Column="1" />
+      <File FileName="tpmodul5_2311104054/HaloGeneric.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tpmodul5_2311104054">
+            <Node name="tpmodul5_2311104054" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.tpmodul5__2311104054 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
