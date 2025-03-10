@@ -1,0 +1,5 @@
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/05_Generics/HaloGeneric/HaloGeneric/obj/Debug/net7.0/tpmodul5_2311104054.csproj.AssemblyReference.cache
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/05_Generics/HaloGeneric/HaloGeneric/obj/Debug/net7.0/tpmodul5_2311104054.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/05_Generics/HaloGeneric/HaloGeneric/obj/Debug/net7.0/tpmodul5_2311104054.AssemblyInfoInputs.cache
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/05_Generics/HaloGeneric/HaloGeneric/obj/Debug/net7.0/tpmodul5_2311104054.AssemblyInfo.cs
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/05_Generics/HaloGeneric/HaloGeneric/obj/Debug/net7.0/tpmodul5_2311104054.csproj.CoreCompileInputs.cache
