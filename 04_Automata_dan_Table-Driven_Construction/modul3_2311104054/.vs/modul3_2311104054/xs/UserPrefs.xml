@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{9255384B-0B57-44AE-87E4-3EF7AF5F3C20}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="modul3_2311104054/PosisiKarakterGame.cs">
+    <Files>
+      <File FileName="modul3_2311104054/Program.cs" />
+      <File FileName="modul3_2311104054/KodeBuah.cs" Line="18" Column="29" />
+      <File FileName="modul3_2311104054/PosisiKarakterGame.cs" Line="93" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="modul3_2311104054">
+            <Node name="modul3_2311104054" expanded="True">
+              <Node name="PosisiKarakterGame.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.modul3__2311104054 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
