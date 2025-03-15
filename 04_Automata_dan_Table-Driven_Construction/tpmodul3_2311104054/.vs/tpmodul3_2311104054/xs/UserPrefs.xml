@@ -1,16 +1,11 @@
 ﻿<Properties StartupConfiguration="{8DF6CFE2-CCA5-49C9-9BEC-EB1E7BDDEC26}|Default">
-  <MonoDevelop.Ide.ItemProperties.TP4 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TP4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="TP4/Program.cs">
     <Files>
-      <File FileName="TP4/Program.cs" Line="12" Column="1" />
-      <File FileName="TP4/DoorMachine.cs" />
-      <File FileName="TP4/KodePos.cs" />
+      <File FileName="TP4/Program.cs" Line="16" Column="2" />
+      <File FileName="TP4/DoorMachine.cs" Line="21" Column="6" />
+      <File FileName="TP4/KodePos.cs" Line="24" Column="29" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -24,4 +19,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
