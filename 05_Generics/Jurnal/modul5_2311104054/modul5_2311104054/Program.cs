@@ -5,7 +5,7 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        string NIM = "12345678";
+        string NIM = "1234567";
         int digit1 = int.Parse(NIM.Substring(0, 2));
         int digit2 = int.Parse(NIM.Substring(2, 2));
         int digit3 = int.Parse(NIM.Substring(4, 2));
