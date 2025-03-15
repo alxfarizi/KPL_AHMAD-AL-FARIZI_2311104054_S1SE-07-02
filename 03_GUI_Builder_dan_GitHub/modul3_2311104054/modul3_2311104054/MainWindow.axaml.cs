@@ -35,5 +35,5 @@ namespace modul3_2311104054
                 txtDisplay.Text = "Error";
             }
         }
-    }  // **Pastikan ini ada sebagai penutup class**
-}  // **Pastikan ini ada sebagai penutup namespace**
+    } 
+}  
