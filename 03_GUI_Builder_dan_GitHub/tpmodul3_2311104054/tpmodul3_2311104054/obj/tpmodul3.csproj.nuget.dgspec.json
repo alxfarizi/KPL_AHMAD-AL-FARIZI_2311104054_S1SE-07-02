@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/03_GUI_Builder_dan_GitHub/tpmodul3_2311104054/tpmodul3/tpmodul3.csproj": {}
+    "/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/03_GUI_Builder_dan_GitHub/tpmodul3_2311104054/tpmodul3_2311104054/tpmodul3.csproj": {}
   },
   "projects": {
-    "/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/03_GUI_Builder_dan_GitHub/tpmodul3_2311104054/tpmodul3/tpmodul3.csproj": {
+    "/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/03_GUI_Builder_dan_GitHub/tpmodul3_2311104054/tpmodul3_2311104054/tpmodul3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/03_GUI_Builder_dan_GitHub/tpmodul3_2311104054/tpmodul3/tpmodul3.csproj",
+        "projectUniqueName": "/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/03_GUI_Builder_dan_GitHub/tpmodul3_2311104054/tpmodul3_2311104054/tpmodul3.csproj",
         "projectName": "tpmodul3",
-        "projectPath": "/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/03_GUI_Builder_dan_GitHub/tpmodul3_2311104054/tpmodul3/tpmodul3.csproj",
+        "projectPath": "/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/03_GUI_Builder_dan_GitHub/tpmodul3_2311104054/tpmodul3_2311104054/tpmodul3.csproj",
         "packagesPath": "/Users/ahmadalfarizi/.nuget/packages/",
-        "outputPath": "/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/03_GUI_Builder_dan_GitHub/tpmodul3_2311104054/tpmodul3/obj/",
+        "outputPath": "/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/03_GUI_Builder_dan_GitHub/tpmodul3_2311104054/tpmodul3_2311104054/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ahmadalfarizi/.nuget/NuGet/NuGet.Config"

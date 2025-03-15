@@ -10,11 +10,12 @@ namespace tpmodul3
             InitializeComponent();
             btnSubmit.Click += BtnSubmit_Click;
         }
-
         private void BtnSubmit_Click(object? sender, RoutedEventArgs e)
         {
-            string inputNama = txtInput.Text;
+            string inputNama = txtInput.Text ?? string.Empty;
             lblOutput.Text = "Halo " + inputNama;
         }
     }
 }
+
+//tpmodul3

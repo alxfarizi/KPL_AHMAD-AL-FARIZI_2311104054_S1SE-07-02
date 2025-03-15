@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yr44Z7NNpy4=",
+  "dgSpecHash": "MEcuEg0NMxY=",
   "success": true,
-  "projectFilePath": "/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/03_GUI_Builder_dan_GitHub/tpmodul3_2311104054/tpmodul3/tpmodul3.csproj",
+  "projectFilePath": "/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/03_GUI_Builder_dan_GitHub/tpmodul3_2311104054/tpmodul3_2311104054/tpmodul3.csproj",
   "expectedPackageFiles": [
     "/Users/ahmadalfarizi/.nuget/packages/avalonia/11.2.1/avalonia.11.2.1.nupkg.sha512",
     "/Users/ahmadalfarizi/.nuget/packages/avalonia.angle.windows.natives/2.1.22045.20230930/avalonia.angle.windows.natives.2.1.22045.20230930.nupkg.sha512",
