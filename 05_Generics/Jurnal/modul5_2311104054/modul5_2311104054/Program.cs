@@ -1,6 +1,7 @@
 ﻿using System;
 using modul5_2311104054;
 
+
 public class Program
 {
     public static void Main(string[] args)
@@ -12,6 +13,7 @@ public class Program
 
         char digitTerakhir = NIM[^1];
         Penjumlahan penjumlahan = new Penjumlahan();
+        SimpleDataBase<int> database = new SimpleDataBase<int>();
 
         if (digitTerakhir == '1' || digitTerakhir == '2')
         {
@@ -45,7 +47,15 @@ public class Program
             var hasil = penjumlahan.JumlahTigaAngka(angka1, angka2, angka3);
             Console.WriteLine($"Hasil penjumlahan (long): {hasil}");
         }
+
+        Console.WriteLine();
+
+        database.AddNewData(12);
+        database.AddNewData(34);
+        database.AddNewData(56);
+
+        database.PrintAllData();
+
         Console.WriteLine();
     }
 }
-
