@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{141B70F6-0EBE-40A8-B987-E4B33B966470}|Default">
-  <MonoDevelop.Ide.ItemProperties.praktikum6 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="praktikum6/Program.cs">
+    <Files>
+      <File FileName="praktikum6/Program.cs" Line="11" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="praktikum6" expanded="True">
+            <Node name="praktikum6">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.praktikum6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
