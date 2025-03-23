@@ -1,0 +1,15 @@
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/06_Design_by_Contract_dan_Defensive_Programming/Praktikum/praktikum6/praktikum6/bin/Debug/net7.0/praktikum6
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/06_Design_by_Contract_dan_Defensive_Programming/Praktikum/praktikum6/praktikum6/bin/Debug/net7.0/praktikum6.deps.json
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/06_Design_by_Contract_dan_Defensive_Programming/Praktikum/praktikum6/praktikum6/bin/Debug/net7.0/praktikum6.runtimeconfig.json
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/06_Design_by_Contract_dan_Defensive_Programming/Praktikum/praktikum6/praktikum6/bin/Debug/net7.0/praktikum6.dll
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/06_Design_by_Contract_dan_Defensive_Programming/Praktikum/praktikum6/praktikum6/bin/Debug/net7.0/praktikum6.pdb
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/06_Design_by_Contract_dan_Defensive_Programming/Praktikum/praktikum6/praktikum6/obj/Debug/net7.0/praktikum6.csproj.AssemblyReference.cache
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/06_Design_by_Contract_dan_Defensive_Programming/Praktikum/praktikum6/praktikum6/obj/Debug/net7.0/praktikum6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/06_Design_by_Contract_dan_Defensive_Programming/Praktikum/praktikum6/praktikum6/obj/Debug/net7.0/praktikum6.AssemblyInfoInputs.cache
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/06_Design_by_Contract_dan_Defensive_Programming/Praktikum/praktikum6/praktikum6/obj/Debug/net7.0/praktikum6.AssemblyInfo.cs
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/06_Design_by_Contract_dan_Defensive_Programming/Praktikum/praktikum6/praktikum6/obj/Debug/net7.0/praktikum6.csproj.CoreCompileInputs.cache
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/06_Design_by_Contract_dan_Defensive_Programming/Praktikum/praktikum6/praktikum6/obj/Debug/net7.0/praktikum6.dll
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/06_Design_by_Contract_dan_Defensive_Programming/Praktikum/praktikum6/praktikum6/obj/Debug/net7.0/refint/praktikum6.dll
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/06_Design_by_Contract_dan_Defensive_Programming/Praktikum/praktikum6/praktikum6/obj/Debug/net7.0/praktikum6.pdb
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/06_Design_by_Contract_dan_Defensive_Programming/Praktikum/praktikum6/praktikum6/obj/Debug/net7.0/praktikum6.genruntimeconfig.cache
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/06_Design_by_Contract_dan_Defensive_Programming/Praktikum/praktikum6/praktikum6/obj/Debug/net7.0/ref/praktikum6.dll
