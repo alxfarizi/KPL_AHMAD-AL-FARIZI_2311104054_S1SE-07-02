@@ -1,5 +1,4 @@
 ﻿using System;
-using modul6_2311104054;
 
 public class SayaTubeVideo
 {
@@ -10,8 +9,7 @@ public class SayaTubeVideo
     public SayaTubeVideo(string title)
     {
         Random random = new Random();
-        this.id = random.Next(10000, 99999);
-
+        this.id = random.Next(10000, 100000); 
         this.title = title;
         this.playCount = 0;
     }
@@ -23,9 +21,9 @@ public class SayaTubeVideo
 
     public void PrintVideoDetails()
     {
-        Console.WriteLine($"ID: {id}");
-        Console.WriteLine($"Title: {title}");
-        Console.WriteLine($"Play Count: {playCount}");
+        Console.WriteLine("ID: " + id);
+        Console.WriteLine("Title: " + title);
+        Console.WriteLine("Play Count: " + playCount);
     }
 
     public int GetPlayCount()

@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using modul6_2311104054;
 
 public class SayaTubeUser
 {
@@ -11,20 +10,9 @@ public class SayaTubeUser
     public SayaTubeUser(string username)
     {
         Random random = new Random();
-        this.id = random.Next(10000, 99999);
-
+        this.id = random.Next(10000, 100000); 
         this.username = username;
         this.uploadedVideos = new List<SayaTubeVideo>();
-    }
-
-    public int GetTotalVideoPlayCount()
-    {
-        int total = 0;
-        foreach (var video in uploadedVideos)
-        {
-            total += video.GetPlayCount();
-        }
-        return total;
     }
 
     public void AddVideo(SayaTubeVideo video)
@@ -32,13 +20,23 @@ public class SayaTubeUser
         uploadedVideos.Add(video);
     }
 
+    public int GetTotalVideoPlayCount()
+    {
+        int totalPlayCount = 0;
+        foreach (var video in uploadedVideos)
+        {
+            totalPlayCount += video.GetPlayCount();
+        }
+        return totalPlayCount;
+    }
+
     public void PrintAllVideoPlaycount()
     {
-        Console.WriteLine($"User: {username}");
+        Console.WriteLine("User: " + username);
         int i = 1;
         foreach (var video in uploadedVideos)
         {
-            Console.WriteLine($"Video {i} judul: {video.GetTitle()}");
+            Console.WriteLine("Video " + i + " judul: " + video.GetTitle());
             i++;
         }
     }
