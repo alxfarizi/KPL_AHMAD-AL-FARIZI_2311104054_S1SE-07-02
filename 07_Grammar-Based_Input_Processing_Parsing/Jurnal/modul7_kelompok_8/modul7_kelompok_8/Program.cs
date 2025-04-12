@@ -1,9 +1,15 @@
-﻿using GlossaryProject;
+using modul7_2311104054;
+
+
 
 class Program
 {
     static void Main(string[] args)
     {
-        GlossaryItem2311104054.ReadJSON();
+      DataMahasiswa2311104054.ReadJson();
+
+      TeamMembers2311104054.ReadJson();
+      
+      GlossaryItem2311104054.ReadJSON();
     }
 }

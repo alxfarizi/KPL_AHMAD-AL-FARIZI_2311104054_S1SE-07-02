@@ -1,0 +1,25 @@
+{
+  "members" : [
+    {
+       "firstName": "Kafta",
+       "lastName": "Putra Riyadi",
+       "gender": "male",
+       "age": 19,
+       "nim": "2311104041"
+    },
+    {
+       "firstName": "Naura",
+       "lastName": "Aisha Zahira",
+       "gender": "female",
+       "age": 19,
+       "nim": "2311104078"
+    },
+    {
+       "firstName": "Faishal",
+       "lastName": "Arif Setiawan",
+       "gender": "male",
+       "age": 18,
+       "nim": "2311104066"
+    }
+  ]
+}
