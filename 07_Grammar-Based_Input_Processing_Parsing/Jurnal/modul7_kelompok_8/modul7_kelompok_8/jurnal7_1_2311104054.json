@@ -1,0 +1,15 @@
+{
+   "firstName": "Ahmad",
+   "lastName": "Al - Farizi",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Jl. Mbah Serog No. 6",
+       "city": "Slawi",
+       "state": "Central Java"
+   },
+   "courses": [
+       { "code": "CCK2KAB4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CCK2CAB3", "name": "Pemodelan Perangkat Lunak" }
+   ]
+}
