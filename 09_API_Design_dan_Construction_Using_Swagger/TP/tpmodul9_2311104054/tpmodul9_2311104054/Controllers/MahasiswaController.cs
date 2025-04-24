@@ -35,7 +35,7 @@ namespace MahasiswaAPI.Controllers
         {
             mahasiswas.Add(value);
         }
-
+ 
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
