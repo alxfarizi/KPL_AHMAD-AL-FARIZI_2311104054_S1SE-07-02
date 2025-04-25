@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "gEVOaz9GN2B26Z9Kpa49iGAWaHxKM/zra4+WepLDdR4mY9eIzKVR1B72SsslSp+mP75VcQKIltuXBXjtywXCUg==",
+  "success": true,
+  "projectFilePath": "/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/09_API_Design_dan_Construction_Using_Swagger/Praktikum/modul9_2311104054/modul9_2311104054/modul9_2311104054.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmadalfarizi/.nuget/packages/microsoft.aspnetcore.openapi/7.0.20/microsoft.aspnetcore.openapi.7.0.20.nupkg.sha512",
+    "/Users/ahmadalfarizi/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/ahmadalfarizi/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/ahmadalfarizi/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/ahmadalfarizi/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/ahmadalfarizi/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/ahmadalfarizi/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

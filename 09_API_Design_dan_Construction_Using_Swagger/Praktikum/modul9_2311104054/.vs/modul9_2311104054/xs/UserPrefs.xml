@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{1EE83422-FB8D-4FDC-9569-DE8D7A726DDB}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="modul9_2311104054/Controllers/UserController.cs">
+    <Files>
+      <File FileName="modul9_2311104054/Models/User.cs" Line="11" Column="1" />
+      <File FileName="modul9_2311104054/Models/UserDto.cs" Line="11" Column="1" />
+      <File FileName="modul9_2311104054/Controllers/UserController.cs" Line="71" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="modul9_2311104054" expanded="True">
+            <Node name="modul9_2311104054">
+              <Node name="Controllers">
+                <Node name="UserController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.modul9__2311104054 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
