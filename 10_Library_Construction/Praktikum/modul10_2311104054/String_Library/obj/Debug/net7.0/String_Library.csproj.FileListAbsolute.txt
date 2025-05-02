@@ -1,0 +1,12 @@
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/Praktikum/modul10_2311104054/String_Library/bin/Debug/net7.0/String_Library.deps.json
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/Praktikum/modul10_2311104054/String_Library/bin/Debug/net7.0/String_Library.dll
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/Praktikum/modul10_2311104054/String_Library/bin/Debug/net7.0/String_Library.pdb
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/Praktikum/modul10_2311104054/String_Library/obj/Debug/net7.0/String_Library.csproj.AssemblyReference.cache
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/Praktikum/modul10_2311104054/String_Library/obj/Debug/net7.0/String_Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/Praktikum/modul10_2311104054/String_Library/obj/Debug/net7.0/String_Library.AssemblyInfoInputs.cache
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/Praktikum/modul10_2311104054/String_Library/obj/Debug/net7.0/String_Library.AssemblyInfo.cs
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/Praktikum/modul10_2311104054/String_Library/obj/Debug/net7.0/String_Library.csproj.CoreCompileInputs.cache
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/Praktikum/modul10_2311104054/String_Library/obj/Debug/net7.0/String_Library.dll
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/Praktikum/modul10_2311104054/String_Library/obj/Debug/net7.0/refint/String_Library.dll
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/Praktikum/modul10_2311104054/String_Library/obj/Debug/net7.0/String_Library.pdb
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/Praktikum/modul10_2311104054/String_Library/obj/Debug/net7.0/ref/String_Library.dll
