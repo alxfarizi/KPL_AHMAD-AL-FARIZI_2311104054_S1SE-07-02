@@ -1,0 +1,12 @@
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/TP/tpmodul10_2311104054/AljabarLibraries/bin/Debug/net7.0/AljabarLibraries.deps.json
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/TP/tpmodul10_2311104054/AljabarLibraries/bin/Debug/net7.0/AljabarLibraries.dll
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/TP/tpmodul10_2311104054/AljabarLibraries/bin/Debug/net7.0/AljabarLibraries.pdb
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/TP/tpmodul10_2311104054/AljabarLibraries/obj/Debug/net7.0/AljabarLibraries.csproj.AssemblyReference.cache
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/TP/tpmodul10_2311104054/AljabarLibraries/obj/Debug/net7.0/AljabarLibraries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/TP/tpmodul10_2311104054/AljabarLibraries/obj/Debug/net7.0/AljabarLibraries.AssemblyInfoInputs.cache
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/TP/tpmodul10_2311104054/AljabarLibraries/obj/Debug/net7.0/AljabarLibraries.AssemblyInfo.cs
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/TP/tpmodul10_2311104054/AljabarLibraries/obj/Debug/net7.0/AljabarLibraries.csproj.CoreCompileInputs.cache
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/TP/tpmodul10_2311104054/AljabarLibraries/obj/Debug/net7.0/AljabarLibraries.dll
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/TP/tpmodul10_2311104054/AljabarLibraries/obj/Debug/net7.0/refint/AljabarLibraries.dll
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/TP/tpmodul10_2311104054/AljabarLibraries/obj/Debug/net7.0/AljabarLibraries.pdb
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/TP/tpmodul10_2311104054/AljabarLibraries/obj/Debug/net7.0/ref/AljabarLibraries.dll
