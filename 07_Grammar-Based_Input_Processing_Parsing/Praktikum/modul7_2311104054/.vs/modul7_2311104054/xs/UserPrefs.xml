@@ -1,23 +1,26 @@
 ﻿<Properties StartupConfiguration="{A8672187-AE4A-467D-BA51-35F07243784E}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="modul7_2311104054/Program.cs">
     <Files>
-      <File FileName="modul7_2311104054/Program.cs" Line="21" Column="1" />
+      <File FileName="modul7_2311104054/jurnal.json" />
+      <File FileName="modul7_2311104054/Program.cs" Line="26" Column="37" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="modul7_2311104054">
-            <Node name="modul7_2311104054" expanded="True" />
+          <Node name="modul7_2311104054" expanded="True">
+            <Node name="modul7_2311104054" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.modul7__2311104054 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
