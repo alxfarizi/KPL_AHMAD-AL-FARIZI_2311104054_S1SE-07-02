@@ -1,0 +1,12 @@
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/Jurnal/modul10_2311104054/MatematikaLibraries/bin/Debug/net7.0/MatematikaLibraries.deps.json
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/Jurnal/modul10_2311104054/MatematikaLibraries/bin/Debug/net7.0/MatematikaLibraries.dll
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/Jurnal/modul10_2311104054/MatematikaLibraries/bin/Debug/net7.0/MatematikaLibraries.pdb
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/Jurnal/modul10_2311104054/MatematikaLibraries/obj/Debug/net7.0/MatematikaLibraries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/Jurnal/modul10_2311104054/MatematikaLibraries/obj/Debug/net7.0/MatematikaLibraries.AssemblyInfoInputs.cache
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/Jurnal/modul10_2311104054/MatematikaLibraries/obj/Debug/net7.0/MatematikaLibraries.AssemblyInfo.cs
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/Jurnal/modul10_2311104054/MatematikaLibraries/obj/Debug/net7.0/MatematikaLibraries.csproj.CoreCompileInputs.cache
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/Jurnal/modul10_2311104054/MatematikaLibraries/obj/Debug/net7.0/MatematikaLibraries.dll
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/Jurnal/modul10_2311104054/MatematikaLibraries/obj/Debug/net7.0/refint/MatematikaLibraries.dll
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/Jurnal/modul10_2311104054/MatematikaLibraries/obj/Debug/net7.0/MatematikaLibraries.pdb
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/Jurnal/modul10_2311104054/MatematikaLibraries/obj/Debug/net7.0/ref/MatematikaLibraries.dll
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/10_Library_Construction/Jurnal/modul10_2311104054/MatematikaLibraries/obj/Debug/net7.0/MatematikaLibraries.sourcelink.json
