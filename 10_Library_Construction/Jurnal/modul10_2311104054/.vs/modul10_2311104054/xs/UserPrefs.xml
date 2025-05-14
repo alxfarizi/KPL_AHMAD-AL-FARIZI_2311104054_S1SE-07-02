@@ -1,5 +1,28 @@
 ﻿<Properties StartupConfiguration="{390AE4E5-6E8A-43DB-9196-CEAFADEE3A58}|Default">
-  <MonoDevelop.Ide.ItemProperties.Matematika PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Matematika/Program.cs">
+    <Files>
+      <File FileName="Matematika/Program.cs" Line="21" Column="1" />
+      <File FileName="MatematikaLibraries/MatematikaApps.cs" Line="2" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="modul10_2311104054">
+            <Node name="Matematika" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="MatematikaLibraries" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.MatematikaLibraries FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Matematika PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
 </Properties>
