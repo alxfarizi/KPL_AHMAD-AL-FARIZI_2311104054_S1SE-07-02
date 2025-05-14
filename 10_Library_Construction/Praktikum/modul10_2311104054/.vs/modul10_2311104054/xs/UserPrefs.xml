@@ -1,16 +1,15 @@
 ﻿<Properties StartupConfiguration="{F9D25E03-C1F8-44EB-8B3A-5FE39D94FDA2}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ShowCase PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="String_Library/Class1.cs">
     <Files>
       <File FileName="String_Library/Class1.cs" Line="14" Column="2" />
-      <File FileName="ShowCase/Program.cs" Line="29" Column="21" />
+      <File FileName="ShowCase/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="modul10_2311104054">
+          <Node name="modul10_2311104054" expanded="True">
             <Node name="ShowCase" expanded="True">
               <Node name="Dependencies" expanded="True">
                 <Node name="ProjectDependencies" expanded="True" />
@@ -20,14 +19,16 @@
               <Node name="Dependencies" expanded="True">
                 <Node name="FrameworkReferences" expanded="True" />
               </Node>
+              <Node name="Class1.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.ShowCase PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

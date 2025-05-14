@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MatematikaLibraries")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e02f865a1d571fd3c5da256621138855e7e6b7de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MatematikaLibraries")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MatematikaLibraries")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
