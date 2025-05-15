@@ -1,0 +1,10 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="tpmodul12_2311104054.MainWindow"
+        Width="400" Height="200" Title="Cari Tanda Bilangan">
+  <StackPanel Margin="10">
+    <TextBox Name="InputTextBox" Watermark="Masukkan angka" Width="200" HorizontalAlignment="Center" />
+    <Button Name="CheckButton" Content="Cek" Width="100" HorizontalAlignment="Center" Margin="10,10,0,0" Click="OnCheckButtonClick" />
+    <TextBlock Name="OutputLabel" Text="Hasil akan tampil di sini" HorizontalAlignment="Center" Margin="10" />
+  </StackPanel>
+</Window>
