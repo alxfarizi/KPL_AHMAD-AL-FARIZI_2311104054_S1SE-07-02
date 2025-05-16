@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ahmadalfarizi/Jurnal/Modul12_2311104054/Modul12_GUI/Modul12_GUI.csproj": {}
+  },
+  "projects": {
+    "/Users/ahmadalfarizi/Jurnal/Modul12_2311104054/Modul12_GUI/Modul12_GUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ahmadalfarizi/Jurnal/Modul12_2311104054/Modul12_GUI/Modul12_GUI.csproj",
+        "projectName": "Modul12_GUI",
+        "projectPath": "/Users/ahmadalfarizi/Jurnal/Modul12_2311104054/Modul12_GUI/Modul12_GUI.csproj",
+        "packagesPath": "/Users/ahmadalfarizi/.nuget/packages/",
+        "outputPath": "/Users/ahmadalfarizi/Jurnal/Modul12_2311104054/Modul12_GUI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ahmadalfarizi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/ahmadalfarizi/Jurnal/Modul12_2311104054/Modul12_Lib/Modul12_Lib.csproj": {
+                "projectPath": "/Users/ahmadalfarizi/Jurnal/Modul12_2311104054/Modul12_Lib/Modul12_Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Avalonia": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Avalonia.Desktop": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Avalonia.Diagnostics": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Avalonia.Fonts.Inter": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Avalonia.Themes.Fluent": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ahmadalfarizi/Jurnal/Modul12_2311104054/Modul12_Lib/Modul12_Lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ahmadalfarizi/Jurnal/Modul12_2311104054/Modul12_Lib/Modul12_Lib.csproj",
+        "projectName": "Modul12_Lib",
+        "projectPath": "/Users/ahmadalfarizi/Jurnal/Modul12_2311104054/Modul12_Lib/Modul12_Lib.csproj",
+        "packagesPath": "/Users/ahmadalfarizi/.nuget/packages/",
+        "outputPath": "/Users/ahmadalfarizi/Jurnal/Modul12_2311104054/Modul12_Lib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ahmadalfarizi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

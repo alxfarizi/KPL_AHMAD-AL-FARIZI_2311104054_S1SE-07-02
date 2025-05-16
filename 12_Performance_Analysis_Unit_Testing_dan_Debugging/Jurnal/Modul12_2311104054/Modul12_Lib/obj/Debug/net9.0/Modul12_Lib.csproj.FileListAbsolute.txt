@@ -1,0 +1,11 @@
+/Users/ahmadalfarizi/Jurnal/Modul12_2311104054/Modul12_Lib/bin/Debug/net9.0/Modul12_Lib.deps.json
+/Users/ahmadalfarizi/Jurnal/Modul12_2311104054/Modul12_Lib/bin/Debug/net9.0/Modul12_Lib.dll
+/Users/ahmadalfarizi/Jurnal/Modul12_2311104054/Modul12_Lib/bin/Debug/net9.0/Modul12_Lib.pdb
+/Users/ahmadalfarizi/Jurnal/Modul12_2311104054/Modul12_Lib/obj/Debug/net9.0/Modul12_Lib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadalfarizi/Jurnal/Modul12_2311104054/Modul12_Lib/obj/Debug/net9.0/Modul12_Lib.AssemblyInfoInputs.cache
+/Users/ahmadalfarizi/Jurnal/Modul12_2311104054/Modul12_Lib/obj/Debug/net9.0/Modul12_Lib.AssemblyInfo.cs
+/Users/ahmadalfarizi/Jurnal/Modul12_2311104054/Modul12_Lib/obj/Debug/net9.0/Modul12_Lib.csproj.CoreCompileInputs.cache
+/Users/ahmadalfarizi/Jurnal/Modul12_2311104054/Modul12_Lib/obj/Debug/net9.0/Modul12_Lib.dll
+/Users/ahmadalfarizi/Jurnal/Modul12_2311104054/Modul12_Lib/obj/Debug/net9.0/refint/Modul12_Lib.dll
+/Users/ahmadalfarizi/Jurnal/Modul12_2311104054/Modul12_Lib/obj/Debug/net9.0/Modul12_Lib.pdb
+/Users/ahmadalfarizi/Jurnal/Modul12_2311104054/Modul12_Lib/obj/Debug/net9.0/ref/Modul12_Lib.dll
