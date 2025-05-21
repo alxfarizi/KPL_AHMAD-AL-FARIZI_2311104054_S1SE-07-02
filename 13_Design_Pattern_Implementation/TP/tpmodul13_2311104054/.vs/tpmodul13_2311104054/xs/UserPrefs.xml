@@ -1,22 +1,21 @@
 ﻿<Properties StartupConfiguration="{0C763ACE-0C05-4EA7-8B8B-82795E42619C}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.tpmodul13__2311104054 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="tpmodul13_2311104054/Program.cs">
     <Files>
-      <File FileName="tpmodul13_2311104054/Observer.cs" Line="75" Column="36" />
-      <File FileName="tpmodul13_2311104054/Program.cs" Line="26" Column="1" />
+      <File FileName="tpmodul13_2311104054/Observer.cs" Line="10" Column="1" />
+      <File FileName="tpmodul13_2311104054/Program.cs" Line="20" Column="42" />
+      <File FileName="tpmodul13_2311104054/ISubject.cs" Line="12" Column="1" />
+      <File FileName="tpmodul13_2311104054/NewAgency.cs" Line="29" Column="1" />
+      <File FileName="tpmodul13_2311104054/NewChannel.cs" Line="20" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="tpmodul13_2311104054" selected="True">
-            <Node name="tpmodul13_2311104054" selected="True">
-              <Node name="ConnectedServicesFolder" selected="True" />
-              <Node name="Dependencies" selected="True" />
-              <Node name="Observer.cs" selected="True" />
-              <Node name="Program.cs" selected="True" />
-            </Node>
+          <Node name="tpmodul13_2311104054">
+            <Node name="tpmodul13_2311104054" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -25,5 +24,4 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
