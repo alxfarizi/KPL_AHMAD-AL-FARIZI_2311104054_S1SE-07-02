@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{8460DE92-FBDB-47B5-81D7-DAB01E906011}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.modul13__2311104054 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.modul13__2311104054 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="modul13_2311104054/Program.cs">
+    <Files>
+      <File FileName="modul13_2311104054/Program.cs" Line="23" Column="1" />
+      <File FileName="modul13_2311104054/PusatDataSingleton.cs" Line="4" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="modul13_2311104054" expanded="True">
+            <Node name="modul13_2311104054" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
