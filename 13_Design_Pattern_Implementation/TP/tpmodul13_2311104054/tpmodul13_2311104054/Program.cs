@@ -1,25 +1,23 @@
-﻿using RefactoringGuru.DesignPatterns.Observer.Conceptual;
+﻿using System;
 
-namespace RefactoringGuru.DesignPatterns.Observer.Demo
+namespace tpmodul13_2311104054
 {
-    public class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            var subject = new Subject();
+            NewsAgency univ = new NewsAgency();
 
-            var observerA = new ConcreteObserverA();
-            subject.Attach(observerA);
+            NewsChannel mhs = new NewsChannel("Dosen");
+            NewsChannel dsn = new NewsChannel("Mahasiswa");
 
-            var observerB = new ConcreteObserverB();
-            subject.Attach(observerB);
+            univ.Attach(mhs);
+            univ.Attach(dsn);
 
-            subject.SomeBusinessLogic();
-            subject.SomeBusinessLogic();
+            univ.Notify("Berita Terkini, Desain Pattern Observer Dipelajari!");
 
-            subject.Detach(observerB);
-
-            subject.SomeBusinessLogic();
+            univ.Detach(mhs);
+            univ.Notify("Berita Lanjutan, Mahasiswa Sudah Unsubscribe.");
         }
     }
 }
