@@ -3,7 +3,6 @@
 /Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/02_Pengenalan_IDE_dan_Pemrograman_CSharp/modul2_2311104054/modul2_2311104054/bin/Debug/net7.0/modul2_2311104054.runtimeconfig.json
 /Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/02_Pengenalan_IDE_dan_Pemrograman_CSharp/modul2_2311104054/modul2_2311104054/bin/Debug/net7.0/modul2_2311104054.dll
 /Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/02_Pengenalan_IDE_dan_Pemrograman_CSharp/modul2_2311104054/modul2_2311104054/bin/Debug/net7.0/modul2_2311104054.pdb
-/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/02_Pengenalan_IDE_dan_Pemrograman_CSharp/modul2_2311104054/modul2_2311104054/obj/Debug/net7.0/modul2_2311104054.csproj.AssemblyReference.cache
 /Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/02_Pengenalan_IDE_dan_Pemrograman_CSharp/modul2_2311104054/modul2_2311104054/obj/Debug/net7.0/modul2_2311104054.GeneratedMSBuildEditorConfig.editorconfig
 /Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/02_Pengenalan_IDE_dan_Pemrograman_CSharp/modul2_2311104054/modul2_2311104054/obj/Debug/net7.0/modul2_2311104054.AssemblyInfoInputs.cache
 /Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/02_Pengenalan_IDE_dan_Pemrograman_CSharp/modul2_2311104054/modul2_2311104054/obj/Debug/net7.0/modul2_2311104054.AssemblyInfo.cs
@@ -13,3 +12,4 @@
 /Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/02_Pengenalan_IDE_dan_Pemrograman_CSharp/modul2_2311104054/modul2_2311104054/obj/Debug/net7.0/modul2_2311104054.pdb
 /Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/02_Pengenalan_IDE_dan_Pemrograman_CSharp/modul2_2311104054/modul2_2311104054/obj/Debug/net7.0/modul2_2311104054.genruntimeconfig.cache
 /Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/02_Pengenalan_IDE_dan_Pemrograman_CSharp/modul2_2311104054/modul2_2311104054/obj/Debug/net7.0/ref/modul2_2311104054.dll
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/02_Pengenalan_IDE_dan_Pemrograman_CSharp/modul2_2311104054/modul2_2311104054/obj/Debug/net7.0/modul2_2311104054.sourcelink.json
