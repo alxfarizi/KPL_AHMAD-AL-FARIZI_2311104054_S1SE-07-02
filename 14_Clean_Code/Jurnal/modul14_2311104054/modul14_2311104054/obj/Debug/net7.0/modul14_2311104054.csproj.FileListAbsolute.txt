@@ -1,0 +1,15 @@
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/14_Clean_Code/Jurnal/modul14_2311104054/modul14_2311104054/bin/Debug/net7.0/modul14_2311104054
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/14_Clean_Code/Jurnal/modul14_2311104054/modul14_2311104054/bin/Debug/net7.0/modul14_2311104054.deps.json
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/14_Clean_Code/Jurnal/modul14_2311104054/modul14_2311104054/bin/Debug/net7.0/modul14_2311104054.runtimeconfig.json
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/14_Clean_Code/Jurnal/modul14_2311104054/modul14_2311104054/bin/Debug/net7.0/modul14_2311104054.dll
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/14_Clean_Code/Jurnal/modul14_2311104054/modul14_2311104054/bin/Debug/net7.0/modul14_2311104054.pdb
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/14_Clean_Code/Jurnal/modul14_2311104054/modul14_2311104054/obj/Debug/net7.0/modul14_2311104054.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/14_Clean_Code/Jurnal/modul14_2311104054/modul14_2311104054/obj/Debug/net7.0/modul14_2311104054.AssemblyInfoInputs.cache
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/14_Clean_Code/Jurnal/modul14_2311104054/modul14_2311104054/obj/Debug/net7.0/modul14_2311104054.AssemblyInfo.cs
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/14_Clean_Code/Jurnal/modul14_2311104054/modul14_2311104054/obj/Debug/net7.0/modul14_2311104054.csproj.CoreCompileInputs.cache
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/14_Clean_Code/Jurnal/modul14_2311104054/modul14_2311104054/obj/Debug/net7.0/modul14_2311104054.sourcelink.json
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/14_Clean_Code/Jurnal/modul14_2311104054/modul14_2311104054/obj/Debug/net7.0/modul14_2311104054.dll
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/14_Clean_Code/Jurnal/modul14_2311104054/modul14_2311104054/obj/Debug/net7.0/refint/modul14_2311104054.dll
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/14_Clean_Code/Jurnal/modul14_2311104054/modul14_2311104054/obj/Debug/net7.0/modul14_2311104054.pdb
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/14_Clean_Code/Jurnal/modul14_2311104054/modul14_2311104054/obj/Debug/net7.0/modul14_2311104054.genruntimeconfig.cache
+/Users/ahmadalfarizi/KPL_AHMAD-Al-FARIZI_2311104054_S1-SE-07-02/14_Clean_Code/Jurnal/modul14_2311104054/modul14_2311104054/obj/Debug/net7.0/ref/modul14_2311104054.dll
