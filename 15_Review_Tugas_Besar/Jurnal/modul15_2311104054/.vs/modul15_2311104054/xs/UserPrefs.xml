@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{27EA44C4-EA5F-4429-9246-DB98D8B95A5B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="modul15_2311104054/Validation.cs">
+    <Files>
+      <File FileName="modul15_2311104054/Program.cs" Line="17" Column="34" />
+      <File FileName="modul15_2311104054/UserHandler.cs" Line="5" Column="19" />
+      <File FileName="modul15_2311104054/Security.cs" Line="20" Column="1" />
+      <File FileName="modul15_2311104054/FileHandler.cs" Line="26" Column="1" />
+      <File FileName="modul15_2311104054/Validation.cs" Line="30" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="modul15_2311104054" expanded="True">
+            <Node name="modul15_2311104054" expanded="True">
+              <Node name="Validation.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.modul15__2311104054 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.modul15__2311104054 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
